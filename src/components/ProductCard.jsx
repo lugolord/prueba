@@ -14,7 +14,7 @@ export default function ProductCard({ product, bgColor }) {
             {product.description}
           </Card.Text>
           <Card.Text>
-            ${product.price}
+            ${product.price}fguisdvbf
           </Card.Text>
           <Button variant="primary">Buy</Button>
         </Card.Body>
