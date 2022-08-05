@@ -1,0 +1,10 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.link {
+  text-decoration: none;
+  color: #ffffff;
+}
